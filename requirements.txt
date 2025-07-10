@@ -1,0 +1,8 @@
+tensorflow>=2.15.0
+numpy>=1.23.5
+Pillow>=9.5.0
+streamlit>=1.40.2
+requests>=2.31.0
+opencv-python-headless>=4.8.1.78
+gdown>=4.7.1
+python-dotenv==1.0.0
